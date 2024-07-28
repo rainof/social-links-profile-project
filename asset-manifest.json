@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/social-links-profile-project/static/css/main.3b7e6250.css",
+    "main.js": "/social-links-profile-project/static/js/main.10760b4c.js",
+    "static/js/453.5e2ed05f.chunk.js": "/social-links-profile-project/static/js/453.5e2ed05f.chunk.js",
+    "index.html": "/social-links-profile-project/index.html",
+    "main.3b7e6250.css.map": "/social-links-profile-project/static/css/main.3b7e6250.css.map",
+    "main.10760b4c.js.map": "/social-links-profile-project/static/js/main.10760b4c.js.map",
+    "453.5e2ed05f.chunk.js.map": "/social-links-profile-project/static/js/453.5e2ed05f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b7e6250.css",
+    "static/js/main.10760b4c.js"
+  ]
+}
