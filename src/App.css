@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: hsl(0, 0%, 8%);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -35,4 +35,55 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.card {
+  padding: 1rem;
+  background-color: hsl(0, 0%, 12%);
+  border-radius: 12px;
+}
+
+.profile {
+  padding: 2rem;
+}
+
+.profile-image {
+  width: 150px;
+  height: 150px;
+
+}
+
+.profile-name {
+
+}
+
+.profile-location {
+
+}
+
+.profile-bio {
+
+}
+
+.button-link {
+  display: flex;
+  flex-direction: column;
+}
+
+.button-ind {
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: hsl(0, 0%, 100%);
+  background-color: hsl(0, 0%, 20%);
+  margin: 0.4rem;
+  padding: 0.6rem;
+  border-style: none;
+  border-radius: 8px;
+}
+
+.button-ind:hover {
+  color: hsl(0, 0%, 20%);
+  background-color: hsl(75, 94%, 57%);
+  cursor: pointer
 }
