@@ -38,31 +38,44 @@
 }
 
 .card {
-  padding: 1rem;
+  padding: 1.8rem;
   background-color: hsl(0, 0%, 12%);
   border-radius: 12px;
 }
 
 .profile {
-  padding: 2rem;
+  padding-top: 0.8rem;
+  padding-bottom: 0.4rem;
 }
 
 .profile-image {
-  width: 150px;
-  height: 150px;
-
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
 }
 
 .profile-name {
-
+  padding-top: 2rem;
+  font-family: 'Inter', sans-serif;
+  font-size: 23px;
+  font-weight: 700;
+  color: hsl(0, 0%, 100%);
 }
 
 .profile-location {
-
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  color: hsl(75, 94%, 57%);
+  padding-bottom: 0.4rem
 }
 
 .profile-bio {
-
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  color: hsl(0, 0%, 100%);
+  padding: 0.6rem
 }
 
 .button-link {
@@ -76,8 +89,8 @@
   font-weight: 700;
   color: hsl(0, 0%, 100%);
   background-color: hsl(0, 0%, 20%);
-  margin: 0.4rem;
-  padding: 0.6rem;
+  margin: 0.5rem;
+  padding: 0.7rem;
   border-style: none;
   border-radius: 8px;
 }
