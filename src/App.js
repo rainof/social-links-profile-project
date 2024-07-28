@@ -15,7 +15,7 @@ function App() {
         Twitter
         Instagram */}
 
-        <div className="card" style={{width: '23rem'}}>
+        <div className="card" style={{width: '24rem'}}>
           <div className="profile">
             <img className="profile-image" src={pic} alt="Jessica Randall" />
             <h5 className="profile-name">Jessica Randall</h5>
